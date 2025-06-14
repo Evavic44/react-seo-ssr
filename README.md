@@ -2,6 +2,9 @@
 
 This project demonstrates how to build a React application with Server-Side Rendering (SSR) using **Vite**, **React Router v6**, and **@dr.pogodin/react-helmet** for dynamic SEO and `<head>` tag management.
 
+## Preview
+![preview](https://github.com/user-attachments/assets/77b4f16a-204b-4a80-8ea8-800b58788092)
+
 ---
 
 ## 🧱 Tech Stack
