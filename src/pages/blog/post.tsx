@@ -7,7 +7,7 @@ export default function Post() {
   const navigate = useNavigate();
   const post = posts.find((post) => post.slug === id);
 
-  const url = window.location.href;
+  const url = "https://react-ssr-50mu.onrender.com/blog/" + post?.slug;
   const cover = post?.cover.url + "&w=500";
 
   return (

@@ -8,6 +8,7 @@ export default function Blog() {
       <MetaTags
         title="Blog Posts"
         description="Read interesting stories from the blog"
+        image="https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=600"
       />
       <h1>Blog Posts</h1>
       <section>

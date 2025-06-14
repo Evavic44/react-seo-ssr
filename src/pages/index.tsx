@@ -7,7 +7,8 @@ export default function Home() {
     <>
       <MetaTags
         title="Dynamic SEO Meta Tags in React"
-        description="How to dynamically add SEO meta tags to a React application using"
+        description="How to dynamically add SEO meta tags to a React application using @dr.pogodin/react-helmet"
+        image="https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=600"
       />
       <div>
         <a href="https://react.dev" target="_blank">
